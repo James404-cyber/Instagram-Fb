@@ -31,8 +31,8 @@ Instagram, facebook Cracking Tools
 cd
 rm -rf Instagramfb
 pkg install git
-git clone https://github.com/James404-cyber/Instagramfb.git
-cd Instagramfb
+git clone https://github.com/James404-cyber/Instagram-Fb.git
+cd Instagram-Fb
 python menu.py
 
 
@@ -53,8 +53,8 @@ $ pip install mechanize
 $ pip install bs4
 $ pip install future      
 $ pkg install git
-$ git clone https://github.com/James404-cyber/Instagramfb.git
-$ cd Instagramfb
+$ git clone https://github.com/James404-cyber/Instagram-Fb.git
+$ cd Instagram-Fb
 $ python menu.py
 
 
